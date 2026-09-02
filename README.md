@@ -33,3 +33,11 @@ Fullstack разработчик из Москвы. Пишу на JS,TS,C++.
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/executeOSScriptAction)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:artur251373@gmail.com)
+
+---
+
+![C++](./powered-cpp.gif)
+![JavaScript](./javascript.gif)
+![Linux](./linux.gif)
+![Vim](./vim.gif)
+![800x600](./800x600.gif)
