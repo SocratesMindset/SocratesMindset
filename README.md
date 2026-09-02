@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Привет, я Артур 👋
+
+Fullstack разработчик из Москвы. Пишу на Js,Ts,C++.
+
+## Стек
+![Vue](https://img.shields.io/badge/Vue3-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+## Проекты
+- [ServerMonitor](https://github.com/SocratesMindset/ServerMonitor) — мониторинг сервера, C++(Crow) + Vanilla JS
+- [NeoConf](https://github.com/SocratesMindset/NeoConf) — платформа для конференций, Next.js + PostgreSQL
+
+## 📫 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/executeOSScriptAction)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:artur251373@gmail.com)
