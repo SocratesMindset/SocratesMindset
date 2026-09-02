@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **SocratesMindset/SocratesMindset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Привет, я Артур 👋
 
-Fullstack разработчик из Москвы. Пишу на Js,Ts,C++.
+Fullstack разработчик из Москвы. Пишу на JS,TS,C++.
 
 ## Стек
 ![Vue](https://img.shields.io/badge/Vue3-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
