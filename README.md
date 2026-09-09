@@ -26,6 +26,11 @@ Fullstack разработчик из Москвы. Пишу на JS,TS,C++.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
+## 📢 Канал
+[SuburbanHouseCode](https://t.me/SuburbanHouseCode) — пишу про разработку и что попадается по пути
+
+[![Telegram Channel](https://img.shields.io/badge/Подписаться-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SuburbanHouseCode)
+
 ## Проекты
 - [ServerMonitor](https://github.com/SocratesMindset/ServerMonitor) — мониторинг сервера, C++(Crow) + Vanilla JS
 - [NeoConf](https://github.com/SocratesMindset/NeoConf) — платформа для конференций, Next.js + PostgreSQL
