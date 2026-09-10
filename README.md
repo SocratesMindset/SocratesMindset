@@ -42,8 +42,8 @@ Fullstack разработчик из Москвы. Пишу на JS,TS,C++.
 ---
 
 ![C++](./powered-cpp.gif)
+![SocratesMindset](./createdByWhom.gif)
 ![JavaScript](./javascript.gif)
 ![Linux](./linux.gif)
 ![Vim](./vim.gif)
 ![800x600](./800x600.gif)
-![SocratesMindset](./createdByWhom.gif)
